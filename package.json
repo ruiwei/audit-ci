@@ -5,11 +5,9 @@
   "license": "Apache-2.0",
   "main": "./dist/index.js",
   "types": "./dist/index.d.ts",
-  "homepage": "https://github.com/IBM/audit-ci",
-  "bugs": "https://github.com/IBM/audit-ci/issues",
   "repository": {
     "type": "git",
-    "url": "git@github.com:IBM/audit-ci.git"
+    "url": "https://github.com/ruiwei/audit-ci.git"
   },
   "keywords": [
     "audit",
